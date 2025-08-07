@@ -5,7 +5,7 @@ metadata:
     argocd.argoproj.io/tracking-id: tst-guestbook:apps/Deployment:/guestbook-ui
   name: guestbook-ui
 spec:
-  replicas: 1
+  replicas: 2
   revisionHistoryLimit: 3
   selector:
     matchLabels:
