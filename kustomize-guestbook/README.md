@@ -7,6 +7,6 @@ To hydrate the manifests in this repository, run the following commands:
 
 git clone https://github.com/bephilippegevaert/argocd-example-apps
 # cd into the cloned directory
-git checkout c461d064a381f2bed350ed2ace4dafac48057c89
+git checkout 75463ec8ed4582ffbf0031afe448f8d554cb8743
 kustomize build ./kustomize-guestbook
 ```
