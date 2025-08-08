@@ -18,7 +18,7 @@ metadata:
     argocd.argoproj.io/tracking-id: tst-kustomize-guestbook:apps/Deployment:/kustomize-guestbook-ui
   name: kustomize-guestbook-ui
 spec:
-  replicas: 2
+  replicas: 1
   revisionHistoryLimit: 3
   selector:
     matchLabels:
