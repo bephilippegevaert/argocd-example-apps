@@ -32,7 +32,7 @@ metadata:
     release: tst-helm-guestbook
   name: tst-helm-guestbook
 spec:
-  replicas: 3
+  replicas: 1
   revisionHistoryLimit: 3
   selector:
     matchLabels:
