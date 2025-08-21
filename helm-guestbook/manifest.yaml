@@ -32,7 +32,7 @@ metadata:
     release: uat-helm-guestbook
   name: uat-helm-guestbook
 spec:
-  replicas: 3
+  replicas: 1
   revisionHistoryLimit: 3
   selector:
     matchLabels:
