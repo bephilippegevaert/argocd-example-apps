@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/bephilippegevaert/argocd-example-apps",
-  "drySha": "e99ab8e876bae48d2c49b91a5db6ddccb9d216c2",
+  "drySha": "51455a00213eec2962a3e287c75f100c70ed4195",
   "author": "bephilippegevaert <be.philippegevaert@gmail.com>",
-  "date": "2025-09-04T06:31:00Z",
+  "date": "2025-09-04T06:56:12Z",
   "subject": "Update guestbook-ui-deployment.yaml"
 }
