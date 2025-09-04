@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/bephilippegevaert/argocd-example-apps",
+  "drySha": "8a12fcacdcb6e1488156cbd9c9c296c5e3e9adc8",
+  "commands": [
+    "kustomize build ./kustomize-guestbook"
+  ]
+}
